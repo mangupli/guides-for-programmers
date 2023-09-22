@@ -1,1 +1,5 @@
-# guides-for-programmers
+# Гайды в помощь разработке
+
+- [Деплой create-react-app приложения в Docker с облачной базой данных](/.deploy-docker-render.md)
+- [Где искать ошибки, когда что-то не работает(http)](/.deploy-docker-render.md)
+- [Обработка ошибок в Redux Toolkit](./rtk-errors.md)
